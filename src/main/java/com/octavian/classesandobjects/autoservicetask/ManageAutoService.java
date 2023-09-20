@@ -1,6 +1,6 @@
-package classesandobjects.autoservicetask;
+package com.octavian.classesandobjects.autoservicetask;
 
-import classesandobjects.autoservicetask.autoservicetask.*;
+import com.octavian.classesandobjects.autoservicetask.autoservicetask.*;
 
 public class ManageAutoService {
     public static void main(String[] args) {
