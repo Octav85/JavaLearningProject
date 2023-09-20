@@ -1,4 +1,4 @@
-package classesandobjects.autoservicetask.autoservicetask;
+package com.octavian.classesandobjects.autoservicetask.autoservicetask;
 
 public class Worker {
     public String name;
