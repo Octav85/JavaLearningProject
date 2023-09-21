@@ -51,11 +51,7 @@ public class ManageAutoService {
                 ionWorker.isExperienced);
 
 
-        Person clientPerson = new Person("+3736918516");
-        clientPerson.name = "Very Important";
 
-        System.out.println("Numele celui mai important client este:" + clientPerson.name + ". Numărul de contact este:" +
-                clientPerson.phoneNumber);
 
 
     }
